@@ -1,0 +1,57 @@
+.h1 {
+    font-family: 'Kreon', serif;
+    font-size: 64px;
+    margin-right: 100px;
+    display: flex;
+    float: right;
+}
+.header{
+    height: 32px;
+    font-family: 'Kosugi', sans-serif;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 100px;
+
+}
+.h2{
+    font-family: 'Kosugi', sans-serif;
+    font-size: 32px;
+    margin-right: 100px;
+    display: flex;
+    float: right;
+}
+.img1{
+    float: left;
+    margin-left: 125px;
+    margin-top: 100px;
+    width: 750px;
+    height: 750px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: blue;
+}
+.p{
+    height: 150px;
+    width: 478px;
+    font-family: 'Kosugi', sans-serif;
+    font-size: 18px;
+    margin-right: 100px;
+    display: flex;
+    float: right;
+    align-items: center;
+    justify-content: center;
+    
+}
+.ul{
+    width: 478px;
+    font-family: 'Kosugi', sans-serif;
+    font-size: 18px;
+    margin-right: 100px;
+    display: flex;
+    float: right;
+    align-items: center;
+    justify-content: right;
+
+}
